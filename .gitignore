@@ -1,5 +1,6 @@
 *.duckdb
-sql_outputs/
+sql_outputs/*
+!sql_outputs/.gitkeep
 .DS_Store
 .ipynb_checkpoints/
 .env
