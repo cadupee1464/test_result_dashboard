@@ -1,0 +1,4 @@
+*.duckdb
+sql_output/
+.DS_Store
+.ipynb_checkpoints/
