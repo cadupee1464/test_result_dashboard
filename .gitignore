@@ -1,5 +1,5 @@
 *.duckdb
-sql_output/
+sql_outputs/
 .DS_Store
 .ipynb_checkpoints/
 .env
