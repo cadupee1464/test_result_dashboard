@@ -124,7 +124,7 @@ The report was designed with a focus on usability and clarity:
 
 ### Overview
 
-![Overview](./images/overviewPage.png)
+![Overview](./images/overview_page.png)
 
 ### School Performance
 
@@ -132,11 +132,11 @@ The report was designed with a focus on usability and clarity:
 
 ### Demographic Analysis
 
-![Demographics](./images/images/performance_by_demographic.png){fig-align="center"}
+![Demographic](./images/performance_by_demographic.png)
 
 ### Filters Applied Example
 
-![Filters](./images//filters_in_action.png){fig-align="center"}
+![Filters](./images//filters_in_action.png)
 
 
 ------------------------------------------------------------------------
