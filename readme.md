@@ -116,45 +116,6 @@ The report was designed with a focus on usability and clarity:
   
 ```
 
-------------------------------------------------------------------------
-
-## Screenshots
-
-### Model
-
-```{=html}
-<img
-src="test_result_dashboard/images/snowflake_model_of_test_results.png"
-data-fig-align="center" />
-```
-
-### Overview
-
-```{=html}
-<img src="test_result_dashboard/images/overview_page.png"
-data-fig-align="center" />
-```
-
-### School Performance
-
-```{=html}
-<img src="test_result_dashboard/images/performance_breakdown.png"
-data-fig-align="center" />
-```
-
-### Demographic Analysis
-
-```{=html}
-<img src="test_result_dashboard/images/performance_by_demographic.png"
-data-fig-align="center" />
-```
-
-### Filters Applied Example
-
-```{=html}
-<img src="test_result_dashboard/images/filters_in_action.png"
-data-fig-align="center" />
-```
 
 ------------------------------------------------------------------------
 
