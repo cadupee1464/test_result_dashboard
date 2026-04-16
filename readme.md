@@ -118,7 +118,6 @@ The report was designed with a focus on usability and clarity:
 
 ### Model
 
-![Model](./images/snowflake_model_of_test_results.png)
 <div align="center">
   <img src="images/snowflake_model_of_test_results.png" width="60%">
 </div>
