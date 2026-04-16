@@ -1,5 +1,3 @@
-# readme
-
 # Student Assessment Performance Dashboard (Power BI)
 
 ## Overview
@@ -121,22 +119,34 @@ The report was designed with a focus on usability and clarity:
 ### Model
 
 ![Model](./images/snowflake_model_of_test_results.png)
+<div align="center">
+  <img src="images/snowflake_model_of_test_results.png" width="60%">
+</div>
 
 ### Overview
 
-![Overview](./images/overview_page.png)
+<div align="center">
+  <img src="images/overview_page.png" width="60%">
+</div>
 
 ### School Performance
 
-![School](./images/performance_breakdown.png)
+<div align="center">
+  <img src="images/performance_breakdown.png" width="60%">
+</div>
 
 ### Demographic Analysis
 
-![Demographic](./images/performance_by_demographic.png)
+<div align="center">
+  <img src="images/performance_by_demographic.png" width="60%">
+</div>
 
 ### Filters Applied Example
 
-![Filters](./images//filters_in_action.png)
+
+<div align="center">
+  <img src="images//filters_in_action.png" width="60%">
+</div>
 
 
 ------------------------------------------------------------------------
